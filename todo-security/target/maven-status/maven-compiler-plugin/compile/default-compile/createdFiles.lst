@@ -1,0 +1,6 @@
+com\example\jwtspringsecurity\JwtSpringSecurityApplication.class
+com\example\jwtspringsecurity\model\Product.class
+com\example\jwtspringsecurity\service\ProductService.class
+com\example\jwtspringsecurity\repository\ProductRepository.class
+com\example\jwtspringsecurity\service\IProductService.class
+com\example\jwtspringsecurity\controller\ProductController.class
